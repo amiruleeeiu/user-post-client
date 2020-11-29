@@ -1,0 +1,14 @@
+.comment-info{
+    margin-left: 10px;
+    background-color: rgb(246, 245, 245);
+    padding: 15px;
+    border-radius: 20px;
+    width: 500px;
+}
+.comment-info p{
+    padding: 0px;
+    margin: 0px;
+}
+.comment-info a:hover{
+    text-decoration: none;
+}
